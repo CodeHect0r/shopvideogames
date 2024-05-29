@@ -1,0 +1,270 @@
+{
+    "productos": [
+        {
+            "id": 1,
+            "nombre": "The Legend of Zelda: Breath of the Wild",
+            "precio": 60,
+            "descargas": "Más de 20 millones" ,
+            "categoria": "Aventura de acción",
+            "descripcion":" Sumérgete en un vasto mundo abierto lleno de misterios y desafíos en esta entrega épica de la serie Zelda.",
+            "año": 2017 ,
+            "empresa_desarrolladora": "Nintendo",
+            "imagen" :"https://upload.wikimedia.org/wikipedia/en/c/c6/The_Legend_of_Zelda_Breath_of_the_Wild.jpg"
+
+        },
+
+        {
+            
+            "id": 2,
+            "nombre": "The Witcher 3: Wild Hunt",
+            "precio": 40,
+            "descargas": "Más de 30 millones" ,
+            "categoria": "RPG de acción",
+            "descripcion":" Embárcate en una emocionante búsqueda llena de monstruos, magia y decisiones morales en este galardonado juego de rol.",
+            "año": 2015 ,
+            "empresa_desarrolladora": "CD Projekt",
+            "imagen" :"https://buy.thewitcher.com/build/images/home/w3-popup/game-tw3@1x-28c1a40b.jpg"
+        },
+
+        {
+            "id": 3,
+            "nombre": "Red Dead Redemption 2",
+            "precio": 50,
+            "descargas": "Más de 36 millones" ,
+            "categoria": "Acción y aventura",
+            "descripcion":" Vive la épica historia del forajido Arthur Morgan en el salvaje oeste, explorando un vasto y detallado mundo abierto.",
+            "año": 2018 ,
+            "empresa_desarrolladora": "Rockstar Games",
+            "imagen" :"https://static0.srcdn.com/wordpress/wp-content/uploads/2023/05/red-dead-redemption-2-poster.jpg"
+        },
+
+        {
+            "id": 4,
+            "nombre": "Grand Theft Auto V",
+            "precio": 30,
+            "descargas": "Más de 140 millones" ,
+            "categoria": "Acción y aventura",
+            "descripcion":"  Sumérgete en el bullicioso mundo criminal de Los Santos y hazte un nombre en esta icónica entrega de la serie GTA.",
+            "año": 2013 ,
+            "empresa_desarrolladora": "Rockstar Games",
+            "imagen" :"https://media-rockstargames-com.akamaized.net/tina-uploads/tina-modules/2a1k4/6b8a5ecfd63708688c0dbf3c7d21538d2bf9ab1a.png"
+        },
+
+        {
+           
+            "id": 5,
+            "nombre": "Minecraft",
+            "precio": 20,
+            "descargas": "Más de 120 millones" ,
+            "categoria": "Sandbox, construcción",
+            "descripcion":" Crea tu propio mundo y deja volar tu imaginación en este fenómeno global de la construcción de bloques.",
+            "año": 2011 ,
+            "empresa_desarrolladora": "Mojang Studios",
+            "imagen" :"https://www.minecraft.net/content/dam/games/minecraft/key-art/Redeem_Card-Art-0_Trails-and-Tales_570x760.jpg"
+        },
+
+        {
+            
+            "id": 6,
+            "nombre": "Dark Souls III",
+            "precio": 40,
+            "descargas": "Más de 110 millones" ,
+            "categoria": "Acción, RPG",
+            "descripcion":" Enfréntate a desafíos mortales y descubre un mundo oscuro y misterioso en este implacable juego de acción.",
+            "año": 2016 ,
+            "empresa_desarrolladora": "FromSoftware",
+            "imagen" :"https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/media/image/2016/07/dark-souls-3-caratula.jpg"
+
+        },
+
+        {
+           
+            "id": 7,
+            "nombre": "Persona 5",
+            "precio": 50,
+            "descargas": "Más de 4 millones" ,
+            "categoria": "RPG",
+            "descripcion":" Únete a un grupo de estudiantes que llevan una doble vida como ladrones fantasma y lucha contra la corrupción en Tokyo.",
+            "año": 2016 ,
+            "empresa_desarrolladora": "Atlus",
+            "imagen" :"https://images.nintendolife.com/a432b578fa21a/persona-5-royal-cover.cover_large.jpg"
+        },
+
+        {
+           
+            "id": 8,
+            "nombre": "God of War (2018)",
+            "precio": 20,
+            "descargas": "Más de 20 millones" ,
+            "categoria": "Acción, aventura",
+            "descripcion":" Acompaña a Kratos y a su hijo Atreus en una emocionante odisea por los reinos nórdicos en busca de venganza y redención.",
+            "año": 2018 ,
+            "empresa_desarrolladora": "Santa Monica Studio.",
+            "imagen" :"https://cdn.kobo.com/book-images/3db50092-2623-48a1-8004-3fe37d2382b6/1200/1200/False/god-of-war-2018-strategy-guide.jpg"
+        },
+
+        {
+            
+            "id": 9,
+            "nombre": "Bloodborne",
+            "precio": 30,
+            "descargas": "Más de 3 millones" ,
+            "categoria": "Acción, RPG",
+            "descripcion":" Sumérgete en un mundo de pesadillas y lucha contra horrores indescriptibles en este desafiante juego de acción.",
+            "año": 2015 ,
+            "empresa_desarrolladora": "FromSoftware",
+            "imagen" :"https://i.etsystatic.com/12047134/r/il/5ae49b/5238607580/il_fullxfull.5238607580_le3w.jpg"
+        },
+
+        
+        {
+            
+            "id": 10,
+            "nombre": "Horizon Zero Dawn",
+            "precio": 50,
+            "descargas": "Más de 10 millones" ,
+            "categoria": "Acción, aventura",
+            "descripcion":"Explora un mundo postapocalíptico habitado por bestias robóticas y descubre los secretos de tu pasado en esta emocionante aventura.",
+            "año": 2017 ,
+            "empresa_desarrolladora": "Guerrilla Games",
+            "imagen" :"https://latingamershop.com/cdn/shop/products/HorizonzerodawncompletePC_800x.jpg?v=1595483125"
+        },
+
+
+        
+        {
+            
+            "id": 11,
+            "nombre": "DOOM (2016)",
+            "precio": 30,
+            "descargas": "Más de 5 millones" ,
+            "categoria": "Shooter, acción",
+            "descripcion":" Aniquila a hordas de demonios en Marte en esta frenética y visceral experiencia de disparos en primera persona.",
+            "año": 2016 ,
+            "empresa_desarrolladora": "id Software",
+            "imagen" :"https://image.api.playstation.com/vulcan/ap/rnd/202010/0114/b4Q1XWYaTdJLUvRuALuqr0wP.png"
+        },
+
+        {
+            
+            "id": 12,
+            "nombre": "Sekiro: Shadows Die Twice",
+            "precio": 60,
+            "descargas": "Más de 5 millones" ,
+            "categoria": "Acción, aventura",
+            "descripcion":"  Sumérgete en el Japón feudal y conviértete en un shinobi mortal en este desafiante juego de acción y sigilo.",
+            "año": 2019,
+            "empresa_desarrolladora": "FromSoftware",
+            "imagen" :"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmFyIQYTDi1HhqSor9_3QHW6eWPMBC_4wkmA&s"
+        },
+
+        {
+            
+            "id": 13,
+            "nombre": "Monster Hunter: World",
+            "precio": 40,
+            "descargas": "Más de 20 millones" ,
+            "categoria": " Acción, RPG.",
+            "descripcion":"  Caza monstruos épicos en un vasto mundo lleno de vida en esta emocionante entrega de la aclamada serie Monster Hunter.",
+            "año": 2018 ,
+            "empresa_desarrolladora": "Capcom",
+            "imagen" :"https://www.monsterhunter.com/world/sp/images/top/bg_mv.jpg"
+        },
+
+        {
+            
+            "id": 14,
+            "nombre": "TNieR: Automata",
+            "precio": 40,
+            "descargas": "Más de 5 millones" ,
+            "categoria": "Acción, RPG.",
+            "descripcion":" Únete a androides en su lucha contra las máquinas en un mundo postapocalíptico en esta emocionante aventura.",
+            "año": 2017 ,
+            "empresa_desarrolladora": "PlatinumGames",
+            "imagen" :"https://estacionmars.pe/wp-content/uploads/2023/02/nier-switch-cover-1-600x851.png"
+        },
+
+        {
+            
+            "id": 15,
+            "nombre": "Divinity: Original Sin 2",
+            "precio": 50,
+            "descargas": "Más de 1 millon" ,
+            "categoria": "RPG",
+            "descripcion":"  Vive una experiencia de rol épica y llena de libertad en este juego donde tus decisiones dan forma al mundo.",
+            "año": 2017 ,
+            "empresa_desarrolladora": " Larian Studios",
+            "imagen" :"https://p325k7wa.twic.pics/high/divinity/divinity-original-sin-2/02-screenshots/2-arena-mode/dos2_arena-mode%20(1).jpg?twic=v1/cover=800x889/step=10/quality=80"
+        },
+
+        {
+            
+            "id": 16,
+            "nombre": "Cyberpunk 2077",
+            "precio": 60,
+            "descargas": "Más de 13 millones" ,
+            "categoria": "RPG, acción.",
+            "descripcion":"  Sumérgete en la metrópolis del futuro en esta épica aventura de rol de los creadores de The Witcher 3.",
+            "año": 2020 ,
+            "empresa_desarrolladora": " CD Projekt",
+            "imagen" :"https://image.api.playstation.com/vulcan/ap/rnd/202111/3013/6bAF2VVEamgKclalI0oBnoAe.jpg"
+        },
+
+        {
+            
+            "id": 17,
+            "nombre": "Resident Evil Village",
+            "precio": 60,
+            "descargas": "Más de 20 millones" ,
+            "categoria": "Survival horror",
+            "descripcion":" Enfréntate a horrores sobrenaturales en un misterioso pueblo en esta escalofriante entrega de la serie Resident Evil.",
+            "año": 2021 ,
+            "empresa_desarrolladora": "Capcom",
+            "imagen" :"https://image.api.playstation.com/vulcan/ap/rnd/202301/2605/54BqvGNsYNo4YtHlvzpbprEX.png"
+        },
+
+        {
+            
+            "id": 18,
+            "nombre": "Assassin's Creed Valhalla",
+            "precio": 50,
+            "descargas": "Más de 10  millones" ,
+            "categoria": "Acción, aventura.",
+            "descripcion":"  Vive la épica saga de los vikingos en esta entrega de la famosa serie Assassin's Creed.",
+            "año": 2020 ,
+            "empresa_desarrolladora": "Ubisoft",
+            "imagen" :"https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/2ty3keIiIbf8EtxovPrb6z/8f288d3afd76d1894601b864a17ca299/ac-valhalla-hero-mobile.jpg"
+        },
+
+        {
+            
+            "id": 19,
+            "nombre": "Ghost of Tsushima",
+            "precio": 50,
+            "descargas": "Más de 8 millones" ,
+            "categoria": "Acción, aventura.",
+            "descripcion":" Embárcate en una emocionante aventura samurái en el Japón feudal en este impresionante juego de mundo abierto.",
+            "año": 2020 ,
+            "empresa_desarrolladora": "Sucker Punch Productions",
+            "imagen" :"https://cdn1.epicgames.com/offer/6e6aa039c73347b885803de65ac5d3db/EGS_GhostofTsushima_SuckerPunchProductions_S2_1200x1600-e23e02c1d70be7b528dba50860f87d39"
+        },
+
+        {
+            
+            "id": 20,
+            "nombre": "Final Fantasy VII Remake",
+            "precio": 60,
+            "descargas": "Más de 5 millones" ,
+            "categoria": "RPG",
+            "descripcion":" Revive la legendaria historia de Cloud Strife en esta espectacular reimaginación de un clásico del RPG japonés.",
+            "año": 2020 ,
+            "empresa_desarrolladora": "Square Enix",
+            "imagen" :"https://m.media-amazon.com/images/M/MV5BOGM5MGFmZmMtYWUzYi00MDc2LTg5OGQtYTk2Y2NiOTQ4YWEwXkEyXkFqcGdeQXVyMTI1Mzg0ODA5._V1_.jpg"
+        }
+
+
+
+
+
+    ]
+}

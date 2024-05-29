@@ -1,0 +1,76 @@
+
+
+
+/*TIPOGRAFIA*/
+h1,h2,h3,h4,h5,h6{
+    font-family: "Merriweather", serif; }
+   
+ p{
+   font-family: "Playfair Display", serif;
+   font-weight: 400;
+ }
+ 
+
+
+.navbar-brand img {
+  height: 3rem;
+  width: auto;
+  transition: all 0.3s;
+}
+.navbar-brand img:hover{
+  transform: scale(1.2);
+}
+
+
+.navbar-collapse ul li{
+  transition: all 0.3s;
+  font-family: "Nunito",sans-serif;
+  font-weight: 700;
+
+}
+
+.navbar-collapse ul li:hover{
+  transform: scale(1.2);
+}
+
+
+/*Portada*/
+  .img-portada {
+    vertical-align: middle;
+    border-style: none;
+  }
+  body {
+    margin: 0;
+    background-color: #fff;
+  }
+  .texto-portada{
+     height: 60vh;  
+  } 
+
+  /*footer*/
+hr{
+    color: #ffffff;
+  }
+  .icono{
+    font-size: 25px;
+  }
+  
+  .footer:hover{
+    color: #0d6efd !important;
+    cursor: pointer;
+  }
+  .c{
+  
+    transition: transform 0.2s ease;
+  }
+  .c:hover{
+    transform: scale(1.01);
+    transition: transform 0.1s ease;
+  }
+  
+  .container{
+
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 80px;
+  }
